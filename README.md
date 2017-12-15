@@ -10,7 +10,17 @@
 Today, I will look at a few areas that I feel I personally struggle in. I'll spend the first few hours of the day to address these trouble spots, and then if there is enough time, I would like to document it a kind of a blog site. That's the ambition anyway, if it doesn't seem like I'll have enough time, I'll likely just record it in the README.
 
 
+--https://www.farnamstreetblog.com/2017/06/habits-vs-goals/
+- After having read this article, I know I'm easily guilty of making goals of self-improvement and having them topple over with their top-heavy aspirations. It's funny, it seems obvious that an approach of slowly tackling your goal in more bite-sized chunks would be a natural approach, but I know I've often disregarded it, not deliberately, but just jumping headfirst into a lake of problems, not knowing what lie beneath the surface. Anyway, went a little off track there. Coming away from this article, I'm sure I can find a way to apply this to my working habits, or at the very least, I'll try.
+
+
+--http://www.marinaratimer.com/olYd4ks
+In an attempt to better manage my work flow, I have a browser tab opened to an online pomodoro timer.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
+
+-- start a blog
 
 ## Development server
 
