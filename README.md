@@ -22,6 +22,11 @@ https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-15989
 In an attempt to better manage my work flow, I have a browser tab opened to an online pomodoro timer.
 
 
+[Learn React.JS in 8 Minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003)
+- Props: From my admittedly shallow understanding, props are immutable pieces of data that you can pass down the a hierarchy of components, very similarly to how we've been sending data down in Angular through input. Just... not with the input set up.
+- States: The event handling so far is not too far off from what we learned in Angular, so not lost yet.
+- Refs and findDomNode: This was interesting to me because so far this was something that I found lacking in Angular, when I wanted to target a specific DOM element, I either just didn't really know how to, or I had to accomplish it in a very round-about way by using if statements with property bindings. Maybe because you'd just do in some way with Vanilla Javascript? Perhaps there was something in our lessons that I may have missed that actually addressed this, but I do like that React's way of handling referencing seems rather similar jQuery.
+
 ## Design
  Typewolf, Beautiful Web Type, Font Pair, and Typ.io.
 
@@ -31,6 +36,9 @@ In an attempt to better manage my work flow, I have a browser tab opened to an o
 * Click [here](https://troubleshmup.tumblr.com) or copy the URL below into your browser:
 
 https://troubleshmup.tumblr.com
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
 
