@@ -49,14 +49,18 @@ Codecademy: lesson 1
   * .map() method reminds me of the .forEach()
   * keys are a JSX attribute, should use them if order of of list items should be remembered
 
-## Sass
-Using Epicodus's CSS course module, I decided to try to learn sass. I love styling my projects as much as I like thinking out the logic for them, and I've heard only good things about sass from my design cohorts. The idea of being able to nest my styles, or use variables especially appealed to be since I feel like a lot of my styling is incredibly repetitive but unavoidable since only there will be just the slightest variation. That may be another issue to do with the structure of my styling altogether, but none-the-less, I don't think learning sass will hurt me in the long run.
-
 
 ## Design
  Typewolf, Beautiful Web Type, Font Pair, and Typ.io.
+## Sass
+Using Epicodus's CSS course module, I decided to try to learn sass. I love styling my projects as much as I like thinking out the logic for them, and I've heard only good things about sass from my design cohorts. The idea of being able to nest my styles, or use variables especially appealed to be since I feel like a lot of my styling is incredibly repetitive but unavoidable since only there will be just the slightest variation. That may be another issue to do with the structure of my styling altogether, but none-the-less, I don't think learning sass will hurt me in the long run.
 
- Read https://medium.com/hello-web-design/design-for-non-designers-part-1-6559ed93ff91
+* sass --watch style.css:output.css
+* @extend to apply another class's attributes
+* you can create functions for sass with the @ symbol
+* mixins can be used when using the same code, you can use dynamic code. which can have default values.
+
+ https://medium.com/hello-web-design/design-for-non-designers-part-1-6559ed93ff91
 
 
 ## The Non-Technical Side
