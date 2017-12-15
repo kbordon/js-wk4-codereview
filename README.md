@@ -1,9 +1,13 @@
 # Developerreality
 
 ## Blindspots
-* Becoming too focused on one spec, and not managing my time properly.
+**Technical**
 * I don't know sass, and I lament knowing I won't really be able to work with React since working with Angular made me really curious about how it differs in architecture.
+
+**Non-Technical**
+* Becoming too focused on one spec, and not managing my time properly.
 * Social anxiety, whiteboarding, and speaking with confidence.
+
 
 
 ## Plan of Action
@@ -13,14 +17,24 @@ Today, I will look at a few areas that I feel I personally struggle in. I'll spe
 --https://www.farnamstreetblog.com/2017/06/habits-vs-goals/
 - After having read this article, I know I'm easily guilty of making goals of self-improvement and having them topple over with their top-heavy aspirations. It's funny, it seems obvious that an approach of slowly tackling your goal in more bite-sized chunks would be a natural approach, but I know I've often disregarded it, not deliberately, but just jumping headfirst into a lake of problems, not knowing what lie beneath the surface. Anyway, went a little off track there. Coming away from this article, I'm sure I can find a way to apply this to my working habits, or at the very least, I'll try.
 
-
+https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730
 --http://www.marinaratimer.com/olYd4ks
 In an attempt to better manage my work flow, I have a browser tab opened to an online pomodoro timer.
 
 
+## Design
+ Typewolf, Beautiful Web Type, Font Pair, and Typ.io.
+
+ Read https://medium.com/hello-web-design/design-for-non-designers-part-1-6559ed93ff91
+
+## Live site
+* Click [here](https://troubleshmup.tumblr.com) or copy the URL below into your browser:
+
+https://troubleshmup.tumblr.com
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
 
--- start a blog
+-- start a blog. I was going to start a blog, but unfortunately,
 
 ## Development server
 
