@@ -27,6 +27,11 @@ In an attempt to better manage my work flow, I have a browser tab opened to an o
 - States: The event handling so far is not too far off from what we learned in Angular, so not lost yet.
 - Refs and findDomNode: This was interesting to me because so far this was something that I found lacking in Angular, when I wanted to target a specific DOM element, I either just didn't really know how to, or I had to accomplish it in a very round-about way by using if statements with property bindings. Maybe because you'd just do in some way with Vanilla Javascript? Perhaps there was something in our lessons that I may have missed that actually addressed this, but I do like that React's way of handling referencing seems rather similar jQuery.
 
+- ~~React ToDo:~~
+
+* I decided to try a different tutorial for react learning.
+
+
 ## Design
  Typewolf, Beautiful Web Type, Font Pair, and Typ.io.
 
