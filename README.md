@@ -30,7 +30,14 @@ In an attempt to better manage my work flow, I have a browser tab opened to an o
 - ~~React ToDo:~~
 
 * I decided to try a different tutorial for react learning.
-
+Codecademy: lesson 1
+  * JSX is an extension for Javascript, looks like HTML but is used in Javascript files
+  * has to be compiled
+  * expressions
+  * attributes
+  * can have nesting and multiple elements but there can only be one outermost element
+  lesson 2
+  * 
 
 ## Design
  Typewolf, Beautiful Web Type, Font Pair, and Typ.io.
