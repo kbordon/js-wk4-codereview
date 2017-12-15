@@ -37,8 +37,15 @@ Codecademy: lesson 1
   * attributes
   * can have nesting and multiple elements but there can only be one outermost element
   lesson 2
-  * 
-
+  * class is a reserved word, so you have to use className
+  * in JSX, you must include the forward slash for self-closing tags
+  * add curly braces (one set) to treat text as Javascript
+  * when attaching an event listener, you put the function you want to call in its value
+  * if statements can't be injected
+  * if you need an if statement, write in on the outside.
+  * ternary operator
+  * .map() method reminds me of the .forEach()
+  * keys are a JSX attribute, should use them if order of of list items should be remembered
 ## Design
  Typewolf, Beautiful Web Type, Font Pair, and Typ.io.
 
