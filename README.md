@@ -1,5 +1,15 @@
 # Developerreality
 
+## Blindspots
+* Becoming too focused on one spec, and not managing my time properly.
+* I don't know sass, and I lament knowing I won't really be able to work with React since working with Angular made me really curious about how it differs in architecture.
+* Social anxiety, whiteboarding, and speaking with confidence.
+
+
+## Plan of Action
+Today, I will look at a few areas that I feel I personally struggle in. I'll spend the first few hours of the day to address these trouble spots, and then if there is enough time, I would like to document it a kind of a blog site. That's the ambition anyway, if it doesn't seem like I'll have enough time, I'll likely just record it in the README.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
 
 ## Development server
