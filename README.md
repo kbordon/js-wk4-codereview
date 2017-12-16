@@ -108,7 +108,7 @@ This tutorial ended up being a little too advanced for me to follow, so I decide
 
 https://troubleshmup.tumblr.com
 
-I made this site with the intention of documenting the process, and I probably will still use it. I would like to replace it with my own blog documentation though.
+This is currently has the same documentation as the README, but with pictures. I would like to replace it with my own blog documentation in the future.
 
 ## Technology
 * Angular
