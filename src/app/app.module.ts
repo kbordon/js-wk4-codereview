@@ -5,16 +5,28 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 import { AboutComponent } from './about/about.component';
+import { StickiesComponent } from './stickies/stickies.component';
+import { SplashComponent } from './splash/splash.component';
+import { routing } from './app.routing';
+import { AddStickyComponent } from './add-sticky/add-sticky.component';
+import { AddTicketComponent } from './add-ticket/add-ticket.component';
+import { AdminComponent } from './admin/admin.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    AboutComponent
+    AboutComponent,
+    StickiesComponent,
+    SplashComponent,
+    AddStickyComponent,
+    AddTicketComponent,
+    AdminComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
-    HttpModule
+    HttpModule,
+    routing
   ],
   providers: [],
   bootstrap: [AppComponent]

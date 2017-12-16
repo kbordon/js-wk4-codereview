@@ -4,6 +4,7 @@
 **Technical**
 * I don't know sass.
 * I lament knowing I won't really be able to work with React since working with Angular made me really curious about how it differs in architecture.
+* I would like to know how to authenticate users in Angular, and other languages.
 
 **Non-Technical**
 * Becoming too focused on one spec, and not managing my time properly.
@@ -53,6 +54,7 @@ Codecademy: lesson 1
 ## Design
  Typewolf, Beautiful Web Type, Font Pair, and Typ.io.
 ## Sass
+https://www.youtube.com/watch?v=ok3y4E5NEmw&feature=youtu.be&list=PLriKzYyLb28nvORWgaD0hAbBcJUcsxy16
 Using Epicodus's CSS course module, I decided to try to learn sass. I love styling my projects as much as I like thinking out the logic for them, and I've heard only good things about sass from my design cohorts. The idea of being able to nest my styles, or use variables especially appealed to be since I feel like a lot of my styling is incredibly repetitive but unavoidable since only there will be just the slightest variation. That may be another issue to do with the structure of my styling altogether, but none-the-less, I don't think learning sass will hurt me in the long run.
 
 * sass --watch style.css:output.css
@@ -62,6 +64,8 @@ Using Epicodus's CSS course module, I decided to try to learn sass. I love styli
 
  https://medium.com/hello-web-design/design-for-non-designers-part-1-6559ed93ff91
 
+## Authentication
+https://auth0.com/blog/angular-2-authentication/
 
 ## The Non-Technical Side
 Meeting new people, and talking about myself is something I struggle with... I have always been a little on the reserved side when it comes to socializing. I'm much better than I used to be when I was much younger, but even now, just introducing myself to strangers, or even presenting to people that I've known for some time can put me a little on the edge. From what I've seen though, so much of coding relies on community, and collaboration, so I can't help but feel encouraged to conquer my nerves and just really try to put myself out there. Since beginning Epicodus, I've tried to go to as many meet-ups as I could manage. While occasionally I did feel less like a socializer, and more like a person standing amidst of free-flowing conversations, as a whole, I really think they've helped me at least in the exposure to the faces of my community. As we approach the end of the program, I feel like I haven't been as diligent in attending them as I had been starting out. So, I've registered with the following events so that I could get back into it.
