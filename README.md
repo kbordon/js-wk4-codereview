@@ -1,21 +1,33 @@
-# Developerreality
+# Developer Reality
+### A Documentation of Personal Development (_12.15.2017_)
+### By Kimberly Bordon
 
+## Description
+This project is an assortment of explorations in what I feel are not necessarily my weakness but definitely subjects that I would like to devote more time to developing. As of now, most of the research and exercises put forth for these studies are notes and screenshots taken from articles, and various teaching websites' lessons.
+
+I thought about putting it on a blog, and I did indeed create a tumblr, but in hindsight, I think I'd like to actually steer this documentation into my own rendering of a blog site. Since, I went back and forth on it from the beginning, when I finally decided to go for it, it was clear there would be no time at all for such an endeavor.
+***
 ## Blindspots
+These are the areas I decided to focus development on:
+
 **Technical**
-* I don't know sass.
-* I lament knowing I won't really be able to work with React since working with Angular made me really curious about how it differs in architecture.
-* I would like to know how to authenticate users in Angular, and other languages.
+* How do you use **Sass**? I don't know it at all, but considering how much time I spend styling, it would likely be in my best interest to learn.
+* What is **React** like? With my track, I won't be able to work with React. Since working with Angular and hearing how much the two differ, I'm curious and want to know about these frameworks compare.
+* How do you **authenticate users** in Angular? I didn't get the opportunity to really study authentication using .NET either, and I want to touch on that as well.
 
 **Non-Technical**
-* Becoming too focused on one spec, and not managing my time properly.
-* Social anxiety, whiteboarding, and speaking with confidence.
+* How can I get better at **managing my time**? I often hyper-focus on one spec, or get easily distracted.
+* How can I **present myself more confidently** in meet-ups, and white-boarding?
 
-
-
+***
 ## Plan of Action
-Today, I will look at a few areas that I feel I personally struggle in. I'll spend the first few hours of the day to address these trouble spots, and then if there is enough time, I would like to document it a kind of a blog site. That's the ambition anyway, if it doesn't seem like I'll have enough time, I'll likely just record it in the README.
+Today, I will try to work on those areas above, particularly Sass and React. In the weeks to come, these are subjects that I feel will not rank high on the priority list since I'll be instead learning the .NET framework and spending less time on code specific activities. After today, my focus will definitely fall more on the non-technical points.
 
+For the first few hours of the day I'll divide some time amongst these areas, and then if there is enough time, I would like to document it on a blog application set up through Angular. That's the ambition anyway, if it doesn't seem like I'll have enough time, I'll likely just record it in the README.
 
+***
+## The Actual Process
+*
 --https://www.farnamstreetblog.com/2017/06/habits-vs-goals/
 - After having read this article, I know I'm easily guilty of making goals of self-improvement and having them topple over with their top-heavy aspirations. It's funny, it seems obvious that an approach of slowly tackling your goal in more bite-sized chunks would be a natural approach, but I know I've often disregarded it, not deliberately, but just jumping headfirst into a lake of problems, not knowing what lie beneath the surface. Anyway, went a little off track there. Coming away from this article, I'm sure I can find a way to apply this to my working habits, or at the very least, I'll try.
 
